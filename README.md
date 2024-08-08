@@ -4,4 +4,4 @@ My Portfolio where I keep my case studies for all things data!
 
 https://www.linkedin.com/in/Tseggai-Kidane-a8b16a10/
 
-Email: TseggaiKN@gmail.com
+Email: tseggaikn@gmail.com
